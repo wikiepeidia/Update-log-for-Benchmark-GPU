@@ -38,5 +38,5 @@ Game link:https://www.roblox.com/games/6445290450/benchmark-Your-computer-Bug-fi
 <p>6. Blur screen after activate instant complete tool seems too blury, if activate benchmark level at the same time it will be invisible to look
 <p>7. Mini quiz containing 2 zeros, due to lag, sometime typing correct passcode will not open the door for some reason.
 <p>8. OP gear last 1 time, so enable god mode if you do not want to lose them!
-<p>9. terrain is weak, any of these weapon will make a giant hole. Without fly tool, it is impossible to travel!  
+<p>9. terrain is weak, any of these weapon will make a giant hole. Without fly tool, it is impossible to travel!  Benchmark also cause holes but very small!
   
