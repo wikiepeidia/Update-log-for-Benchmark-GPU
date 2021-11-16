@@ -27,4 +27,5 @@ Game link:https://www.roblox.com/games/6445290450/benchmark-Your-computer-Bug-fi
 <p>1. donation not work
 <p>2 lag ping cause stuff act very slow.
 <p>3 take a long time to join
-<p>4. Benchmark happens in a small place, sometimes won't work.
+<p>4. Benchmark happens in a small place, sometimes won't even work.
+<p>5. The insta benchmark tool will make CPU, GPU run at max speed instantly. This both erase and replace million of assets in just a small square within a second. An i7 CPU, GTX 1650, 16GB ram can take up to 3-5 minutes to display the next frame! (If roblox actually still work LOL) 
