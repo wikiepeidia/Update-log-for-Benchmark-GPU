@@ -1,5 +1,5 @@
 # Update-log-for-Benchmark-GPU
-<p>Update log (twitter limit our word!)
+<p>Update log (why twitter limit words :(( )
 <p>Latest update:16:18 16/11/21
 <p style="color:red;">Update log:
 <p>1,2,3,4 add some stuff
