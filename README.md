@@ -15,8 +15,8 @@ Game link:https://www.roblox.com/games/6445290450/benchmark-Your-computer-Bug-fi
 <p>v1.1 add some stuff 3/3/2021
 <p>v1.2 add some stuff 13/4/2021
 <p>v1.3 add some stuff 15/4/2021
-<p>v1.4 Add more benchmark level (2,3,4,5) {Huge update #1) 5/6/2021
-<p>v1.4.1 Add secret benchmark level for master pcs {Huge update #1) 12/6/2021
+<p>v1.4 Add more benchmark level (2,3,4,5)  5/6/2021
+<p>v1.4.1 Add secret benchmark level for master pcs 12/6/2021
 <p>v1.5 Change game name and, add update log and changed description.15/6/2021
 <p>v1.6 Replaced old carpet giver, add speed,gravity coil, add donation stuff 22/6/2021
 <p>v1.6.1 Change location of the secret level benchmark. added anti lag script.2/7/2021
