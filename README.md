@@ -1,5 +1,6 @@
 # Update log for Benchmark your computer
 Game link:https://www.roblox.com/games/6445290450/benchmark-Your-computer-Bug-fix
+<p>Request for feature here https://benchmark-your-computer.fandom.com/vi/f/p/4400000000000038150
 <p>Update log (why twitter limit words :(( )
 <p>Date format: Day/Month/Year
 <p>Time zone: GMT+7
