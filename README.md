@@ -24,6 +24,8 @@ Game link:https://www.roblox.com/games/6445290450/benchmark-Your-computer-Bug-fi
 <p>v1.7.1 Updated the donation board to latest version 4/10/2021
 <p>v1.7.2 Added a gamepass if you want to complete the benchmark instantly 16/11/2021
 <p>v1.8 Donation now working now. Added stuff related to chat.   
+<p>v2.0 removed custom chat because it do not hide the main chat. Removed glitched house that can't stand up for some reason. Add more props.  Also adding some more Anti lag script LOL!
+<p>v2.1 Added a small quiz into the game! If correct, you gain a huge lot of OP weapon!
 <p style="color:red;">Current issue:
 <p>1.
 <p>2 lag ping cause stuff act very slow. Actually i do not know how to fix this because of the massive amount of assets
