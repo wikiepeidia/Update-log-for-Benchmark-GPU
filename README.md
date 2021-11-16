@@ -34,7 +34,7 @@ Game link:https://www.roblox.com/games/6445290450/benchmark-Your-computer-Bug-fi
 <p>2 lag ping cause stuff act very slow. Actually i do not know how to fix this because of the massive amount of assets
 <p>3 take a long time to join. This will not be fixed as i do not want people to join a benchmarking server... Everyone must be alone!
 <p>4. Benchmark happens in a small place, sometimes won't even work.
-<p>5. Due to lag,the instant complete tool do not break million asset instantly. If no lag, just 1 house can ultra laggy.
+<p>5. Due to lag,the instant complete tool do not break million asset instantly. This lead to not much lag as I expected. If no lag, just 1 house can ultra laggy.
 <p>6. Blur screen after activate instant complete tool seems too blury, if activate benchmark level at the same time it will be invisible to look
 <p>7. Mini quiz containing 2 zeros, due to lag, sometime typing correct passcode will not open the door for some reason.
 <p>8. OP gear last 1 time, so enable god mode if you do not want to lose them!
