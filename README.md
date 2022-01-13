@@ -5,12 +5,16 @@ Game link:https://www.roblox.com/games/8526492904/Game-for-RTX-3090-or-high-end-
 <p>Date format: Day/Month/Year
 <p>Time zone: GMT+7
 
-<p>Latest update:16:00 13/1/22
+<p>Latest update:17:00 13/1/22
 <p style="color:red;">Update log:
-Update 0: inititial release
+v1.0: inititial release
+v1.1: Donation now works.
+v1.2: i completely revork everything and made a newer map. Instead of horrible grass, now i will be using baseplate.There are not much feature there.
 <p style="color:red;">Current issue:
 There are random music in the hotel, i couldn't track it, so turn off game music if you want to.
 I also couldn't track the message in the game
+LAG always occurs, why it worser than studio's server :)
+
 you guy suggest, i don't have rtx 3090 so i won't play it.
   
   
