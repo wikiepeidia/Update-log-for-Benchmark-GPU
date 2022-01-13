@@ -27,7 +27,9 @@ Game link:https://www.roblox.com/games/6445290450/benchmark-Your-computer-Bug-fi
 <p>v1.8 Donation now working!. Added stuff related to chat.   16/11/2021
 <p>v2.0 removed custom chat because it do not hide the main chat. Removed glitched house that can't stand up for some reason. Add more props.  Also adding some more Anti lag script LOL! 16/11/2021
 <p>v2.0.1 Added a small quiz into the game! If correct, you gain a huge lot of OP weapon! 16/11/2021
-<p>v2.1  Remove the old benchmark tool as it acts not too well, replace it with better one. Secret level benchmark now inside a room with another code. It has display to show what code you entered! There is no clue shows what code is for the quiz and the door, find it yourself. The room  containing op weapon  no longer asking for button (sucks) now use your voice instead. 
+<p>v2.1  Remove the old benchmark tool as it acts not too well, replace it with better one. Secret level benchmark now inside a room with another code. It has display to show what code you entered! There is no clue shows what code is for the quiz and the door, find it yourself. The room  containing op weapon  no longer asking for button (sucks) now use your voice instead.
+<p>2.1.1 Remove secret level benchmark due to i am making a new game designed only for this. The whole room still exists, but you will find some literally nothing. The game also stopped supporting, these bug won't be fixed and no more feature added.
+  
 
 
 
