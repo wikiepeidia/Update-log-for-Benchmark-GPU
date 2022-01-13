@@ -1,10 +1,26 @@
-# Update log for Benchmark your computer
-Game link:https://www.roblox.com/games/6445290450/benchmark-Your-computer-Bug-fix
-<p>Request for feature here https://benchmark-your-computer.fandom.com/vi/f/p/4400000000000038150
-<p>Update log (why twitter limit words :(( )
+# Update log for RTX 3090 game:
+Game link:https://www.roblox.com/games/8526492904/Game-for-RTX-3090-or-high-end-GPU
+<p>Request for feature here https://benchmark-your-computer.fandom.com/vi/f/p/4400000000000038659
+<p>Report bugs and problems: https://benchmark-your-computer.fandom.com/vi/f/p/4400000000000038660
 <p>Date format: Day/Month/Year
 <p>Time zone: GMT+7
+
+<p>Latest update:16:00 13/1/22
+<p style="color:red;">Update log:
+Update 0: inititial release
+<p style="color:red;">Current issue:
+There are random music in the hotel, i couldn't track it, so turn off game music if you want to.
+I also couldn't track the message in the game
+you guy suggest, i don't have rtx 3090 so i won't play it.
   
+  
+# Update log for Benchmark your computer  :
+Game link:https://www.roblox.com/games/6445290450/benchmark-Your-computer-Bug-fix
+<p>Request for feature here https://benchmark-your-computer.fandom.com/vi/f/p/4400000000000038150
+<p>Report bugs and problems: https://benchmark-your-computer.fandom.com/vi/f/p/4400000000000038660
+<p>Date format: Day/Month/Year
+<p>Time zone: GMT+7
+
 <p>Latest update:16:18 16/11/21
 <p style="color:red;">Update log:
 <p>v0.1 testing phrase 12/12/2020
@@ -44,4 +60,4 @@ Game link:https://www.roblox.com/games/6445290450/benchmark-Your-computer-Bug-fi
 <p>7. Mini quiz containing 2 zeros, due to lag, sometime typing correct passcode will not open the door for some reason.
 <p>8. OP gear last 1 time, so enable god mode if you do not want to lose them!
 <p>9. terrain is weak, any of these weapon will make a giant hole. Without fly tool, it is impossible to travel!  Benchmark also cause holes but very small!
-  
+You guys suggest  
