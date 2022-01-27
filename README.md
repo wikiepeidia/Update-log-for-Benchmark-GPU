@@ -5,7 +5,7 @@ Game link:https://www.roblox.com/games/8526492904/Game-for-RTX-3090-or-high-end-
 <p>Date format: Day/Month/Year
 <p>Time zone: GMT+7
 
-<p>Latest update:17:00 13/1/22
+<p>Latest update:10:15 27/1/22
 <p style="color:red;">Update log:
 <p>v1.0: inititial release
 <p>v1.1: Donation now works.
