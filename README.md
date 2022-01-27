@@ -10,6 +10,11 @@ Game link:https://www.roblox.com/games/8526492904/Game-for-RTX-3090-or-high-end-
 <p>v1.0: inititial release
 <p>v1.1: Donation now works.
 <p>v1.2: i completely revork everything and made a newer map. Instead of horrible grass, now i will be using baseplate.There are not much feature there.
+<p>v2.0 (huge update):
+<p>- Added more props
+<p>- Added more ways to escape the nuke
+<p>- gear now required gamepass to obtain. THerefore, you can use stuff around the map to escape
+<p>- And more, you do discover
 <p style="color:red;">Current issue:
 <p>There are random music in the hotel, i couldn't track it, so turn off game music if you want to.
 <p>I also couldn't track the message in the game
